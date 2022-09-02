@@ -1,0 +1,111 @@
+h1 {
+    color: rgb(255, 244, 181);
+    margin-left: 78px;
+}
+
+/* * {
+    border: solid;
+} */
+
+.header{
+    background-color: rgb(0, 94, 58);
+    display: flex;
+    justify-content: space-between;
+}
+
+.site-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+.menu{
+    margin-right: 50px;
+}
+
+
+
+
+
+a:link{
+    color: rgba(0, 255, 170, 0.822);
+}
+
+a:visited{
+    color:rgba(153, 189, 87, 0.651)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+    background-color:#ffa2be;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
